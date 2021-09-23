@@ -51,7 +51,7 @@ function Validation()
   }  
   if(numberOfCheckedItems<3)  
   {  
-      alert("you should atleast select three");  
+      alert("you should atleast choose three");  
       return false;  
   }
   if(numberOfCheckedItems>=3){
